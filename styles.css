@@ -1,0 +1,35 @@
+body {
+  font-family: Valera Round, sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+svg {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.tooltip {
+  position: relative;
+  background-color: rgb(255, 247, 0);
+  border-radius: 5px;
+  padding: 10px;
+  width: 200px;
+  height: 100px;
+  pointer-events: none;
+}
+
+.tile-text {
+  font-size: 0.55rem;
+  pointer-events: none;
+}
+
+.legend {
+}
+
+.legendText {
+  font-size: 0.7rem;
+}
